@@ -2,7 +2,7 @@
 # License: GPLv3
 # Contact: support [at] Youtube
 
-youtube.com
-www.youtube.com
-googlevideo.com
-i.ytimg.com
+0.0.0.0 youtube.com
+0.0.0.0 www.youtube.com
+0.0.0.0 googlevideo.com
+0.0.0.0 i.ytimg.com
