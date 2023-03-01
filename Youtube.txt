@@ -1,0 +1,8 @@
+# Ad filter list Youtube
+# License: GPLv3
+# Contact: support [at] Youtube
+
+youtube.com
+www.youtube.com
+googlevideo.com
+i.ytimg.com
