@@ -2,10 +2,6 @@
 # License: GPLv3
 # Contact: support [at] Youtube
 
-youtube.com
-www.youtube.com
-.googlevideo.com
-i.ytimg.com
 142.250.195.46
 142.250.195.78
 142.250.195.110
@@ -55,7 +51,6 @@ i.ytimg.com
 142.250.196.78
 142.250.196.174
 172.217.163.174
-youtube-ui.l.google.com
 142.250.196.14
 142.250.196.46
 142.250.196.78
