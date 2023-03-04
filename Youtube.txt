@@ -27,6 +27,7 @@ i.ytimg.com
 yt3.ggpht.com
 www.youtube.com
 youtube.com
+youtu.be
 ad.doubleclick.net
 googlesyndication.com
 tpc.googlesyndication.com
