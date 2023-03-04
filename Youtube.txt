@@ -3,7 +3,6 @@
 # Contact: support [at] Youtube
 
 #
-# Credit to /u/Jase-Hill. Original can be found at http://jasonhill.co.uk/pfsense/ytadblock.txt
 #
 # Wildcard blocking
 # The domains below need to beed added to your program as wildcard domains
@@ -23,6 +22,9 @@
 
 
 # Domains under test before being added to main list below
+s.youtube.com
+i.ytimg.com
+yt3.ggpht.com
 www.youtube.com
 youtube.com
 ad.doubleclick.net
@@ -55,6 +57,12 @@ doubleclick.net
 www.youtube-nocookie.com
 youtube-nocookie.com
 s0.2mdn.net
+
+# IP Address
+142.250.195.206
+142.250.67.46
+142.250.195.142
+
 
 
 # Main Advertisment
